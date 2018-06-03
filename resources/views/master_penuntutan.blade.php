@@ -1,4 +1,4 @@
-@extends('layouts.penuntutan_template')
+@extends('elpidsus::layouts.penuntutan_template')
 
 @section('title', 'Dir.Tut')
 

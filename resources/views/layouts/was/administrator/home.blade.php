@@ -1,4 +1,4 @@
-@extends('templates.was.administrator')
+@extends('elpidsus::templates.was.administrator')
 
 @section('stylesheets')
   {{-- expr --}}

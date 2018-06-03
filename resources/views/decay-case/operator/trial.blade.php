@@ -1,4 +1,4 @@
-@extends('elapdu.operator.template')
+@extends('elpidsus::elapdu.operator.template')
 
 @section('title', 'home')
 

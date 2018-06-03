@@ -1,4 +1,4 @@
-@extends('templates.master.clean')
+@extends('elpidsus::templates.master.clean')
 
 @section('content')
 <div class="container">

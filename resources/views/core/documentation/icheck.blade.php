@@ -1,4 +1,4 @@
-@extends('templates.master.user')
+@extends('elpidsus::templates.master.user')
 
 @section('title', '')
 

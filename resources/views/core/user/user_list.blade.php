@@ -1,4 +1,4 @@
-@extends('decay-case.operator.template')
+@extends('elpidsus::decay-case.operator.template')
 
 @section('title', 'Dir.Dik')
 

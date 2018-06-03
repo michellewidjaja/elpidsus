@@ -1,4 +1,4 @@
-@extends('elapdu.pelapor.template')
+@extends('elpidsus::elapdu.pelapor.template')
 
 @section('title', 'Users')
 
