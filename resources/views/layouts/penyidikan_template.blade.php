@@ -1,4 +1,4 @@
-@include('layouts.head')
+@include('elpidsus::layouts.head')
   <body>
   @include('layouts.penyidikan_mainnav')
   <div class="wrapper">
